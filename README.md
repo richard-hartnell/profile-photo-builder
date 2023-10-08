@@ -4,7 +4,7 @@ an automatic festival profile photo builder.
 ## Directions
 To just make it work, clone this project into a local folder; open with Photoshop and use File -> Export -> "Data Sets As Files..."
 
-It should export three .PSD files, which can be exported as-is or tailored slightly and then exported (e.g. Bug).
+It should export three .PSD files, which can be exported to JPG/PNG/WEBP as-is or tailored slightly and then exported (e.g. Bug).
 
 ## How it works
 The very creatively-named "sheet1.csv" is referenced by Photoshop in a "Data Sets" property that corresponds its layer names to column names in a reference CSV. This is all set up and hidden in the back-end of template.psd.
